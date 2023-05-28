@@ -11,4 +11,6 @@ fn main() {
             println!("{}", THIS_IS_CONSTAND)
         }
     }
+
+    println!("zheshi iyge xiugai");
 }
